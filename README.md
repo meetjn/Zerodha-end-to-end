@@ -1,3 +1,5 @@
 # Zerodha-end-to-end
 
-Made a landing page for Zerodha's website and in a few months I will be completing this project clone.
+Made a landing page for Zerodha's website by using HTML, CSS and JavaScript.
+Added minute details to the landing page.
+
