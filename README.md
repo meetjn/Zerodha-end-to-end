@@ -1,5 +1,3 @@
 # Zerodha-end-to-end
 
-Made a landing page for Zerodha's website by using HTML, CSS and JavaScript.
-Added minute details to the landing page.
-
+Zerodha’s landing page, crafted with HTML, CSS, and JavaScript, serves as the seamless interface for Zerodha’s website. 
